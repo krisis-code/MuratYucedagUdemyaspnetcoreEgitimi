@@ -1132,6 +1132,51 @@
             "rid": "win"
           }
         }
+      },
+      "BusinesLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "DataAccessLayer": "1.0.0",
+          "EntityLayer": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "7.0.5",
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.5"
+        },
+        "compile": {
+          "bin/placeholder/BusinesLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BusinesLayer.dll": {}
+        }
+      },
+      "DataAccessLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "EntityLayer": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "7.0.5",
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.5"
+        },
+        "compile": {
+          "bin/placeholder/DataAccessLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataAccessLayer.dll": {}
+        }
+      },
+      "EntityLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "7.0.5",
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.5"
+        },
+        "compile": {
+          "bin/placeholder/EntityLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EntityLayer.dll": {}
+        }
       }
     }
   },
@@ -3452,10 +3497,28 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "BusinesLayer/1.0.0": {
+      "type": "project",
+      "path": "../BusinesLayer/BusinesLayer.csproj",
+      "msbuildProject": "../BusinesLayer/BusinesLayer.csproj"
+    },
+    "DataAccessLayer/1.0.0": {
+      "type": "project",
+      "path": "../DataAccessLayer/DataAccessLayer.csproj",
+      "msbuildProject": "../DataAccessLayer/DataAccessLayer.csproj"
+    },
+    "EntityLayer/1.0.0": {
+      "type": "project",
+      "path": "../EntityLayer/EntityLayer.csproj",
+      "msbuildProject": "../EntityLayer/EntityLayer.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "BusinesLayer >= 1.0.0",
+      "DataAccessLayer >= 1.0.0",
+      "EntityLayer >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 7.0.5",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.5",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.5",
@@ -3495,7 +3558,17 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\BusinesLayer\\BusinesLayer.csproj": {
+              "projectPath": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\BusinesLayer\\BusinesLayer.csproj"
+            },
+            "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\DataAccessLayer\\DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\DataAccessLayer\\DataAccessLayer.csproj"
+            },
+            "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\EntityLayer\\EntityLayer.csproj": {
+              "projectPath": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\EntityLayer\\EntityLayer.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
