@@ -4,7 +4,7 @@ using EntityLayer.Concrete;
 
 namespace DataAccessLayer.EntityFramework
 {
-    public class EfAboutDal : GenericRepository<About> ,IAboutDal
+    public class EfAboutDal : GenericRepository<About> , IAboutDal
     {
     }
 }

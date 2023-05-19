@@ -6,6 +6,6 @@ namespace DataAccessLayer.EntityFramework
 {
     public class EfTestimonialDal : GenericRepository<Testimonial>,ITestimonialDal
     {
-
+      
     }
 }

@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using EntityLayer.Concrete;
 
 namespace DataAccessLayer.Abstract
 {
-    internal interface IFeatureDal
+    public interface IFeatureDal : IGenericDal<Feature> 
     {
     }
 }
