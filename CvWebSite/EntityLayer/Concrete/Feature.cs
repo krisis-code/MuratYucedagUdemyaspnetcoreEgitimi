@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -8,6 +9,7 @@ namespace EntityLayer.Concrete
 {
     public class Feature
     {
+        [Key]
         //Web sitesinin girişindeki "hakkında" bölümünün bir kimliği veya numarasıdır. Bu özellik, hakkında bölümünü benzersiz bir şekilde tanımlamak için kullanılabilir.
         public int FeatureId { get; set; }
 
