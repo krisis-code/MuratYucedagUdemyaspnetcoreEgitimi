@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace DataAccessLayer.EntityFramework
 {
-    internal class EfSkillDal : GenericRepository<Skill>,ISkillDall
+    public class EfSkillDal : GenericRepository<Skill>,ISkillDall
     {
     }
 }

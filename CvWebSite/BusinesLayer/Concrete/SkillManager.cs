@@ -1,4 +1,5 @@
-﻿using DataAccessLayer.Abstract;
+﻿using BusinesLayer.Abstract;
+using DataAccessLayer.Abstract;
 using EntityLayer.Concrete;
 using System;
 using System.Collections.Generic;
@@ -9,7 +10,7 @@ using System.Threading.Tasks;
 namespace BusinesLayer.Concrete
 {
 
-    public class SkillManager : ISkillDall
+    public class SkillManager : ISkillService
     {
         ISkillDall _skillDall;
 
@@ -18,29 +19,29 @@ namespace BusinesLayer.Concrete
             _skillDall = skillDall;
         }
 
-        public void Delete(Skill t)
+        public void TAdd(Skill t)
         {
-            _skillDall.Delete(t);
+            throw new NotImplementedException();
         }
 
-        public Skill GetById(int id)
+        public void TDelete(Skill t)
         {
-            return _skillDall.GetById(id);  
+            throw new NotImplementedException();
         }
 
-        public List<Skill> GetList()
+        public Skill TGetById(int id)
         {
-            return _skillDall.GetList();
+            throw new NotImplementedException();
         }
 
-        public void Insert(Skill t)
+        public List<Skill> TGetList()
         {
-           _skillDall.Insert(t);
+           return _skillDall.GetList();
         }
 
-        public void Update(Skill t)
+        public void TUpdate(Skill t)
         {
-            _skillDall?.Update(t);  
+            throw new NotImplementedException();
         }
     }
 }

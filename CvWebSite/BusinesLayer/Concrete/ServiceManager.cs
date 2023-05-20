@@ -1,4 +1,5 @@
-﻿using DataAccessLayer.Abstract;
+﻿using BusinesLayer.Abstract;
+using DataAccessLayer.Abstract;
 using EntityLayer.Concrete;
 using System;
 using System.Collections.Generic;
@@ -8,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace BusinesLayer.Concrete
 {
-    public class ServiceManager : IServiceDal
+    public class ServiceManager : IServiceService
     {
         IServiceDal _serviceDal;
 
@@ -17,29 +18,29 @@ namespace BusinesLayer.Concrete
             _serviceDal = serviceDal;
         }
 
-        public void Delete(Service t)
+        public void TAdd(Service t)
+        {
+           _serviceDal.Insert(t);
+        }
+
+        public void TDelete(Service t)
         {
             _serviceDal.Delete(t);
         }
 
-        public Service GetById(int id)
+        public Service TGetById(int id)
         {
-            return _serviceDal.GetById(id);
+            throw new NotImplementedException();
         }
 
-        public List<Service> GetList()
+        public List<Service> TGetList()
         {
            return _serviceDal.GetList();
         }
 
-        public void Insert(Service t)
+        public void TUpdate(Service t)
         {
-            _serviceDal.Insert(t);
-        }
-
-        public void Update(Service t)
-        {
-            _serviceDal.Update(t);
+            throw new NotImplementedException();
         }
     }
 }
