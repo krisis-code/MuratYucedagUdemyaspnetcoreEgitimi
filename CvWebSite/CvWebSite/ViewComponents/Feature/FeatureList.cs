@@ -9,7 +9,7 @@ namespace CvWebSite.ViewComponents.Feature
         FeatureManager featureManager = new FeatureManager(new EfFeatureDal());
         public IViewComponentResult Invoke()
         {
-            var values = featureManager.GetList();
+            var values = featureManager.TGetList();
                  
             return View(values);
         }

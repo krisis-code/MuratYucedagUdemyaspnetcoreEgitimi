@@ -1,4 +1,5 @@
-﻿using DataAccessLayer.Abstract;
+﻿using BusinesLayer.Abstract;
+using DataAccessLayer.Abstract;
 using EntityLayer.Concrete;
 using System;
 using System.Collections.Generic;
@@ -8,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace BusinesLayer.Concrete
 {
-    public class ExperinceManager : IExperinceDal
+    public class ExperinceManager : IExperinceService
     {
         IExperinceDal _experinceDal;
 
@@ -17,29 +18,29 @@ namespace BusinesLayer.Concrete
             _experinceDal = experinceDal;
         }
 
-        public void Delete(Experience t)
+        public void TAdd(Experience t)
         {
-           _experinceDal.Delete(t);
+            throw new NotImplementedException();
         }
 
-        public Experience GetById(int id)
+        public void TDelete(Experience t)
         {
-          return  _experinceDal.GetById(id);
+            throw new NotImplementedException();
         }
 
-        public List<Experience> GetList()
+        public Experience TGetById(int id)
         {
-          return _experinceDal.GetList();
+            throw new NotImplementedException();
         }
 
-        public void Insert(Experience t)
+        public List<Experience> TGetList()
         {
-           _experinceDal.Insert(t);
+           return _experinceDal.GetList();
         }
 
-        public void Update(Experience t)
+        public void TUpdate(Experience t)
         {
-           _experinceDal?.Update(t);
+            throw new NotImplementedException();
         }
     }
 }

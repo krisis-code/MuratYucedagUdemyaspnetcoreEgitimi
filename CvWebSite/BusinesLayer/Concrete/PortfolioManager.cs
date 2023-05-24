@@ -1,4 +1,5 @@
-﻿using DataAccessLayer.Abstract;
+﻿using BusinesLayer.Abstract;
+using DataAccessLayer.Abstract;
 using EntityLayer.Concrete;
 using System;
 using System.Collections.Generic;
@@ -8,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace BusinesLayer.Concrete
 {
-    public class PortfolioManager : IPortfolioDal
+    public class PortfolioManager : IPortfolioService
     {
         IPortfolioDal _portfolioDal;
 
@@ -17,30 +18,29 @@ namespace BusinesLayer.Concrete
             _portfolioDal = portfolioDal;
         }
 
-        public void Delete(Portfolio t)
+        public void TAdd(Portfolio t)
         {
-            _portfolioDal.Delete(t);
+            throw new NotImplementedException();
         }
 
-        public Portfolio GetById(int id)
+        public void TDelete(Portfolio t)
         {
-            return _portfolioDal.GetById(id);
-            
+            throw new NotImplementedException();
         }
 
-        public List<Portfolio> GetList()
+        public Portfolio TGetById(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public List<Portfolio> TGetList()
         {
             return _portfolioDal.GetList();
         }
 
-        public void Insert(Portfolio t)
+        public void TUpdate(Portfolio t)
         {
-            _portfolioDal.Insert(t);
-        }
-
-        public void Update(Portfolio t)
-        {
-           _portfolioDal.Update(t);
+            throw new NotImplementedException();
         }
     }
 }
