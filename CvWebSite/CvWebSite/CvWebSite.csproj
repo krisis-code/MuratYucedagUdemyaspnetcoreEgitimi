@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <None Include="..\.editorconfig" Link=".editorconfig" />
+    <None Include="wwwroot\argon-dashboard-master\.github\workflows\main.yml" />
   </ItemGroup>
 
   <ItemGroup>

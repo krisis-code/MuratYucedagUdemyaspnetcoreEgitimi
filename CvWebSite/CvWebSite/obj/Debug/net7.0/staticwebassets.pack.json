@@ -417,6 +417,1206 @@
       "PackagePath": "staticwebassets\\Template\\scripts\\purecounter.min.js"
     },
     {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\.DS_Store",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\.gitignore",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\ISSUE_TEMPLATE.md",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\ISSUE_TEMPLATE.md"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\LICENSE.md",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\README.md",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\css\\argon-dashboard.css",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\css\\argon-dashboard.css"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\css\\argon-dashboard.css.map",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\css\\argon-dashboard.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\css\\argon-dashboard.min.css",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\css\\argon-dashboard.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\css\\nucleo-icons.css",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\css\\nucleo-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\css\\nucleo-svg.css",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\css\\nucleo-svg.css"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\fonts\\nucleo-icons.eot",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\fonts\\nucleo-icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\fonts\\nucleo-icons.svg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\fonts\\nucleo-icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\fonts\\nucleo-icons.ttf",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\fonts\\nucleo-icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\fonts\\nucleo-icons.woff",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\fonts\\nucleo-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\fonts\\nucleo-icons.woff2",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\fonts\\nucleo-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\fonts\\nucleo.eot",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\fonts\\nucleo.eot"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\fonts\\nucleo.ttf",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\fonts\\nucleo.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\fonts\\nucleo.woff",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\fonts\\nucleo.woff"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\fonts\\nucleo.woff2",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\fonts\\nucleo.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\apple-icon.png",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\apple-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\bg-profile.jpg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\bg-profile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\bg1.jpg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\bg1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\bruce-mars.jpg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\bruce-mars.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\carousel-3.jpg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\carousel-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\curved-images\\curved-10.jpg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\curved-images\\curved-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\curved-images\\curved-11.jpg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\curved-images\\curved-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\curved-images\\curved-6.jpg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\curved-images\\curved-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\curved-images\\curved-8.jpg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\curved-images\\curved-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\curved-images\\curved0.jpg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\curved-images\\curved0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\curved-images\\curved1.jpg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\curved-images\\curved1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\curved-images\\curved10.jpg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\curved-images\\curved10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\curved-images\\curved11-small.jpg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\curved-images\\curved11-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\curved-images\\curved11.jpg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\curved-images\\curved11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\curved-images\\curved12.jpg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\curved-images\\curved12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\curved-images\\curved13.jpg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\curved-images\\curved13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\curved-images\\curved14.jpg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\curved-images\\curved14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\curved-images\\curved19.jpg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\curved-images\\curved19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\curved-images\\curved2.jpg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\curved-images\\curved2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\curved-images\\curved21.jpg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\curved-images\\curved21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\curved-images\\curved3.jpg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\curved-images\\curved3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\curved-images\\curved4.jpg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\curved-images\\curved4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\curved-images\\curved5-small.jpg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\curved-images\\curved5-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\curved-images\\curved5.jpg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\curved-images\\curved5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\curved-images\\curved6-small.jpg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\curved-images\\curved6-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\curved-images\\curved6.jpg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\curved-images\\curved6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\curved-images\\curved7.jpg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\curved-images\\curved7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\curved-images\\curved8.jpg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\curved-images\\curved8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\curved-images\\curved9.jpg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\curved-images\\curved9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\curved-images\\white-curved.jpeg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\curved-images\\white-curved.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\down-arrow-dark.svg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\down-arrow-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\down-arrow-white.svg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\down-arrow-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\down-arrow.svg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\down-arrow.svg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\home-decor-1.jpg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\home-decor-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\home-decor-2.jpg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\home-decor-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\home-decor-3.jpg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\home-decor-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\icons\\flags\\AU.png",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\icons\\flags\\AU.png"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\icons\\flags\\BR.png",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\icons\\flags\\BR.png"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\icons\\flags\\DE.png",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\icons\\flags\\DE.png"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\icons\\flags\\GB.png",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\icons\\flags\\GB.png"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\icons\\flags\\US.png",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\icons\\flags\\US.png"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\illustrations\\icon-documentation.svg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\illustrations\\icon-documentation.svg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\illustrations\\rocket-white.png",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\illustrations\\rocket-white.png"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\ivana-square.jpg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\ivana-square.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\ivancik.jpg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\ivancik.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\kal-visuals-square.jpg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\kal-visuals-square.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\logo-ct-dark.png",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\logo-ct-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\logo-ct.png",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\logo-ct.png"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\logos\\mastercard.png",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\logos\\mastercard.png"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\logos\\visa.png",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\logos\\visa.png"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\marie.jpg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\marie.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\shapes\\pattern-lines.svg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\shapes\\pattern-lines.svg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\shapes\\shape-1.svg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\shapes\\shape-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\shapes\\shape-2.svg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\shapes\\shape-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\shapes\\shape-3.svg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\shapes\\shape-3.svg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\shapes\\wave-down.svg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\shapes\\wave-down.svg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\shapes\\wave-up.svg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\shapes\\wave-up.svg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\shapes\\waves-gray.svg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\shapes\\waves-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\shapes\\waves-white.svg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\shapes\\waves-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\small-logos\\icon-sun-cloud.png",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\small-logos\\icon-sun-cloud.png"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\small-logos\\logo-atlassian.svg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\small-logos\\logo-atlassian.svg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\small-logos\\logo-invision.svg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\small-logos\\logo-invision.svg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\small-logos\\logo-jira.svg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\small-logos\\logo-jira.svg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\small-logos\\logo-slack.svg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\small-logos\\logo-slack.svg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\small-logos\\logo-spotify.svg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\small-logos\\logo-spotify.svg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\small-logos\\logo-webdev.svg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\small-logos\\logo-webdev.svg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\small-logos\\logo-xd.svg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\small-logos\\logo-xd.svg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\theme\\angular.jpg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\theme\\angular.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\theme\\bootstrap.jpg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\theme\\bootstrap.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\theme\\dribbble.png",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\theme\\dribbble.png"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\theme\\dropbox.png",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\theme\\dropbox.png"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\theme\\mastercard.png",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\theme\\mastercard.png"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\theme\\paypal.png",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\theme\\paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\theme\\react.jpg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\theme\\react.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\theme\\sketch.jpg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\theme\\sketch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\theme\\slack.png",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\theme\\slack.png"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\theme\\spotify.jpeg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\theme\\spotify.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\theme\\tim.png",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\theme\\tim.png"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\theme\\unass.jpg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\theme\\unass.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\theme\\visa.png",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\theme\\visa.png"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\theme\\vue.jpg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\theme\\vue.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\img\\vr-bg.jpg",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\img\\vr-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\js\\argon-dashboard.js",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\js\\argon-dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\js\\argon-dashboard.js.map",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\js\\argon-dashboard.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\js\\argon-dashboard.min.js",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\js\\argon-dashboard.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\js\\core\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\js\\core\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\js\\plugins\\Chart.extension.js",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\js\\plugins\\Chart.extension.js"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\js\\plugins\\bootstrap-notify.js",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\js\\plugins\\bootstrap-notify.js"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\js\\plugins\\chartjs.min.js",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\js\\plugins\\chartjs.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\js\\plugins\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\js\\plugins\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\js\\plugins\\smooth-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\js\\plugins\\smooth-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_alert.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_avatars.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_avatars.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_badge.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_buttons.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_cards.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_dark-version.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_dark-version.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_dropup.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_dropup.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_fixed-plugin.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_footer.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_forms.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_gradients.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_header.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_info-areas.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_info-areas.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_misc.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_nav.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_navbar-vertical.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_navbar-vertical.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_navbar.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_pagination.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_popovers.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_popovers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_progress.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_rtl.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_rtl.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_social-buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_tables.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_tilt.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_tilt.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_timeline.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_timeline.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_tooltips.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_typography.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_utilities-extend.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_utilities-extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_utilities.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_variables.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_accordion.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_containers.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_helpers.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_maps.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_maps.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_placeholders.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_color-bg.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_color-bg.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\bootstrap\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\cards\\card-background.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\cards\\card-background.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\cards\\card-carousel.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\cards\\card-carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\custom\\_styles.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\custom\\_styles.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\custom\\_variables.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\custom\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\forms\\_form-switch.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\forms\\_form-switch.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\forms\\_forms.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\forms\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\forms\\_inputs.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\forms\\_inputs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\mixins\\_colored-shadows.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\mixins\\_colored-shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\mixins\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\mixins\\_social-buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\mixins\\mixins.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\mixins\\mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\plugins\\free\\_flatpickr.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\plugins\\free\\_flatpickr.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\plugins\\free\\_nouislider.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\plugins\\free\\_nouislider.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\plugins\\free\\_perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\plugins\\free\\_perfect-scrollbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\plugins\\free\\_prism.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\plugins\\free\\_prism.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\plugins\\free\\plugins.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\plugins\\free\\plugins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\theme.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_animations.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_animations.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_avatars.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_avatars.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_badge.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_cards-extend.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_cards-extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_cards.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_choices.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_choices.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_dark-version.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_dark-version.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_dropdowns.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_fixed-plugin.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_form-switch.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_form-switch.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_full-calendar.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_full-calendar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_header.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_info-areas.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_info-areas.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_misc-extend.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_misc-extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_misc.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_navbar-vertical.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_navbar-vertical.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_navbar.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_pagination.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_rtl.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_rtl.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_social-buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_table.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_table.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_timeline.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_timeline.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_utilities-extend.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_utilities-extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_utilities.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_virtual-reality.scss",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\scss\\argon-dashboard\\variables\\_virtual-reality.scss"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\docs\\documentation.html",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\docs\\documentation.html"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\gulpfile.js",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\gulpfile.js"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\index.html",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\package.json",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\pages\\billing.html",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\pages\\billing.html"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\pages\\dashboard.html",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\pages\\dashboard.html"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\pages\\profile.html",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\pages\\profile.html"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\pages\\rtl.html",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\pages\\rtl.html"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\pages\\sign-in.html",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\pages\\sign-in.html"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\pages\\sign-up.html",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\pages\\sign-up.html"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\pages\\tables.html",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\pages\\tables.html"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\pages\\virtual-reality.html",
+      "PackagePath": "staticwebassets\\argon-dashboard-master\\pages\\virtual-reality.html"
+    },
+    {
       "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
