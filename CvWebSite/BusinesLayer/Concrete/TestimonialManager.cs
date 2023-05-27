@@ -1,9 +1,10 @@
-﻿using DataAccessLayer.Abstract;
+﻿using BusinesLayer.Abstract;
+using DataAccessLayer.Abstract;
 using EntityLayer.Concrete;
 
 namespace BusinesLayer.Concrete
 {
-    public class TestimonialManager : ITestimonialDal
+    public class TestimonialManager : ITestimonialService
     {
         ITestimonialDal _testimonialDal;
 
@@ -12,29 +13,29 @@ namespace BusinesLayer.Concrete
             _testimonialDal = testimonialDal;
         }
 
-        public void Delete(Testimonial t)
+        public void TAdd(Testimonial t)
         {
-            _testimonialDal.Delete(t);
+            throw new NotImplementedException();
         }
 
-        public Testimonial GetById(int id)
+        public void TDelete(Testimonial t)
         {
-           return _testimonialDal.GetById(id);
+            throw new NotImplementedException();
         }
 
-        public List<Testimonial> GetList()
+        public Testimonial TGetById(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public List<Testimonial> TGetList()
         {
             return _testimonialDal.GetList();
         }
 
-        public void Insert(Testimonial t)
+        public void TUpdate(Testimonial t)
         {
-           _testimonialDal.Insert(t);
-        }
-
-        public void Update(Testimonial t)
-        {
-            _testimonialDal.Update(t);
+            throw new NotImplementedException();
         }
     }
 }
