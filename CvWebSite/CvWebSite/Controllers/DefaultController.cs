@@ -1,4 +1,7 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using BusinesLayer.Concrete;
+using DataAccessLayer.EntityFramework;
+using EntityLayer.Concrete;
+using Microsoft.AspNetCore.Mvc;
 
 namespace CvWebSite.Controllers
 {
@@ -16,6 +19,24 @@ namespace CvWebSite.Controllers
         {
             return new PartialViewResult();
            
+        }
+        [HttpGet]
+        public PartialViewResult SendMessage()
+        {
+            return new PartialViewResult();
+
+        }
+        [HttpPost]
+        public PartialViewResult SendMessage(Message p)
+        {
+            MessageManager messageManager = new MessageManager(new EfMessageDal());
+            
+            p.Date = Convert.ToDateTime(DateTime.Now.ToShortDateString());
+            p.Status = true;
+            messageManager.TAdd(p);
+
+            return new PartialViewResult();
+
         }
     }
 }

@@ -1,14 +1,10 @@
-﻿using DataAccessLayer.Abstract;
+﻿using BusinesLayer.Abstract;
+using DataAccessLayer.Abstract;
 using EntityLayer.Concrete;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace BusinesLayer.Concrete
 {
-    public class MessageManager : IMessageDal
+    public class MessageManager : IMessageService
     {
         IMessageDal _messageDal;
 
@@ -17,29 +13,29 @@ namespace BusinesLayer.Concrete
             _messageDal = messageDal;
         }
 
-        public void Delete(Message t)
-        {
-            _messageDal.Delete(t);
-        }
-
-        public Message GetById(int id)
-        {
-           return _messageDal.GetById(id);
-        }
-
-        public List<Message> GetList()
-        {
-           return _messageDal.GetList();
-        }
-
-        public void Insert(Message t)
+        public void TAdd(Message t)
         {
            _messageDal.Insert(t);
         }
 
-        public void Update(Message t)
+        public void TDelete(Message t)
         {
-            _messageDal?.Update(t); 
+            throw new NotImplementedException();
+        }
+
+        public Message TGetById(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public List<Message> TGetList()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void TUpdate(Message t)
+        {
+            throw new NotImplementedException();
         }
     }
 }
