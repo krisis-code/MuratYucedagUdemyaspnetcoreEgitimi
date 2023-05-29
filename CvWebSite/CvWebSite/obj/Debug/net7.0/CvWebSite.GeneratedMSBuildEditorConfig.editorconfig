@@ -16,6 +16,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Kris/Desktop/MuratYucedagUdemyaspnetcoreEgitimi/CvWebSite/CvWebSite/Views/Admin/PartialFooter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUGFydGlhbEZvb3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kris/Desktop/MuratYucedagUdemyaspnetcoreEgitimi/CvWebSite/CvWebSite/Views/Admin/PartialHead.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUGFydGlhbEhlYWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kris/Desktop/MuratYucedagUdemyaspnetcoreEgitimi/CvWebSite/CvWebSite/Views/Admin/PartialNavbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUGFydGlhbE5hdmJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kris/Desktop/MuratYucedagUdemyaspnetcoreEgitimi/CvWebSite/CvWebSite/Views/Admin/PartialScript.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUGFydGlhbFNjcmlwdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kris/Desktop/MuratYucedagUdemyaspnetcoreEgitimi/CvWebSite/CvWebSite/Views/Admin/PartialSideBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUGFydGlhbFNpZGVCYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Kris/Desktop/MuratYucedagUdemyaspnetcoreEgitimi/CvWebSite/CvWebSite/Views/Default/HeaderPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxIZWFkZXJQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -30,6 +50,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Kris/Desktop/MuratYucedagUdemyaspnetcoreEgitimi/CvWebSite/CvWebSite/Views/Default/SendMessage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxTZW5kTWVzc2FnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kris/Desktop/MuratYucedagUdemyaspnetcoreEgitimi/CvWebSite/CvWebSite/Views/Feature/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmVhdHVyZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Kris/Desktop/MuratYucedagUdemyaspnetcoreEgitimi/CvWebSite/CvWebSite/Views/Home/Index.cshtml]
@@ -86,6 +110,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Kris/Desktop/MuratYucedagUdemyaspnetcoreEgitimi/CvWebSite/CvWebSite/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kris/Desktop/MuratYucedagUdemyaspnetcoreEgitimi/CvWebSite/CvWebSite/Views/Skill/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tpbGxcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Kris/Desktop/MuratYucedagUdemyaspnetcoreEgitimi/CvWebSite/CvWebSite/Views/_ViewImports.cshtml]
