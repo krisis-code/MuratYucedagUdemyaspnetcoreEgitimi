@@ -32,5 +32,12 @@ namespace CvWebSite.Controllers
             return PartialView();
 
         }
+
+        public PartialViewResult NavigaitonPartial()
+        {
+
+            return PartialView();
+
+        }
     }
 }

@@ -26,12 +26,12 @@ namespace BusinesLayer.Concrete
 
         public void TDelete(Skill t)
         {
-            throw new NotImplementedException();
+           _skillDall.Delete(t);
         }
 
         public Skill TGetById(int id)
         {
-            throw new NotImplementedException();
+            return _skillDall.GetById(id);  
         }
 
         public List<Skill> TGetList()
@@ -41,7 +41,7 @@ namespace BusinesLayer.Concrete
 
         public void TUpdate(Skill t)
         {
-            throw new NotImplementedException();
+           _skillDall.Update(t);
         }
     }
 }
