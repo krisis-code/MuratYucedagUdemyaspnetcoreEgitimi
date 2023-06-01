@@ -13,21 +13,45 @@
     @Html.Label("Proje Başlığı")
     <br />
     @Html.TextBoxFor(x=> x.Name, new {@class="form-control"})
+    @Html.ValidationMessageFor(x=> x.Name)
     <br />
     <label>Görsel 1</label>
     <br />
     <br />
     @Html.TextBoxFor(x=> x.ImageUrl, new {@class="form-control"})
+    @Html.ValidationMessageFor(x=> x.ImageUrl)
     <br />
     <label>Görsel 2</label>
     <br />
     <br />
     @Html.TextBoxFor(x=> x.ImageUrl2, new {@class="form-control"})
+    @Html.ValidationMessageFor(x=> x.ImageUrl2)
     <br />
     <label>Proje Url</label>
     <br />
     <br />
     @Html.TextBoxFor(x=> x.ProjectUrl, new {@class="form-control"})
+    @Html.ValidationMessageFor(x=> x.ProjectUrl)
+    <label>Fiyat</label>
+    <br />
+    <br />
+    @Html.TextBoxFor(x=> x.Price, new {@class="form-control"})
+    @Html.ValidationMessageFor(x=> x.Price)
+    <label>Tamamlanma Oranu</label>
+    <br />
+    <br />
+    @Html.TextBoxFor(x=> x.Values, new {@class="form-control"})
+    @Html.ValidationMessageFor(x=> x.Values)
+    <label>Proje Url</label>
+    <br />
+    <br />
+    @Html.TextBoxFor(x=> x.ProjectUrl, new {@class="form-control"})
+    @Html.ValidationMessageFor(x=> x.ProjectUrl)
+    <label>Proje Url</label>
+    <br />
+    <br />
+    @Html.TextBoxFor(x=> x.ProjectUrl, new {@class="form-control"})
+    @Html.ValidationMessageFor(x=> x.ProjectUrl)
     
 
     <button class="btn btn-primary">Kaydet</button>

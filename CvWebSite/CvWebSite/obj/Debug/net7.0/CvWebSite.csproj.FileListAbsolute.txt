@@ -279,3 +279,7 @@ C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\obj
 C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\obj\Debug\net7.0\CvWebSite.pdb
 C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\obj\Debug\net7.0\CvWebSite.genruntimeconfig.cache
 C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\obj\Debug\net7.0\ref\CvWebSite.dll
+C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\obj\Debug\net7.0\CvWebSite.MvcApplicationPartsAssemblyInfo.cs
