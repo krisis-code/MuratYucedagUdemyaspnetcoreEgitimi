@@ -16,8 +16,10 @@ public class PortfolioController : Controller
 
     public IActionResult Index()
     {
+        ViewBag.v1 = "Proje Listeleme";
+        ViewBag.v2 = "Projeler";
+        ViewBag.v3 = "Proje Listeleme";
 
-        
         var values= portfolioManager.TGetList();
         return View(values);
     }
@@ -51,5 +53,49 @@ public class PortfolioController : Controller
         }
       
         return View();
+    }
+    public IActionResult DeletePortfolio(int id)
+    {
+        var values = portfolioManager.TGetById(id);
+        portfolioManager.TDelete(values);
+        return RedirectToAction("Index");
+
+    }
+    [HttpGet]
+    public IActionResult EditPortfolio(int id)
+    {
+        ViewBag.v1 = "Proje Düzenleme";
+        ViewBag.v2 = "Projeler";
+        ViewBag.v3 = "Proje Düzenleme";
+        var values = portfolioManager.TGetById(id);
+
+        return View(values);
+
+    }
+    [HttpPost]
+    public IActionResult EditPortfolio(Portfolio  portfolio)
+    {
+        PortfolioValidator validator = new PortfolioValidator();
+        ValidationResult result = validator.Validate(portfolio);
+        if (result.IsValid)
+        {
+            ViewBag.v1 = "Proje Düzenleme";
+            ViewBag.v2 = "Projeler";
+            ViewBag.v3 = "Proje Düzenleme";
+            portfolioManager.TUpdate(portfolio);
+            return RedirectToAction("Index");
+
+        }
+        else
+        {
+            foreach (var item in result.Errors)
+            {
+                ModelState.AddModelError(item.PropertyName, item.ErrorMessage);
+            }
+        }
+        return View();
+
+        
+
     }
 }

@@ -29,6 +29,6 @@ namespace EntityLayer.Concrete
         public string? Image2 { get; set; }
         public string? Image3 { get; set; }
         public string? Image4 { get; set; }
-        public string? Values { get; set; }
+        public string? Value { get; set; }
     }
 }
