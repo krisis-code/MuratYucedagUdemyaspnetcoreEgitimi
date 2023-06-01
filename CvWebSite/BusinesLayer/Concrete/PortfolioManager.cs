@@ -20,7 +20,7 @@ namespace BusinesLayer.Concrete
 
         public void TAdd(Portfolio t)
         {
-            throw new NotImplementedException();
+            _portfolioDal.Insert(t);
         }
 
         public void TDelete(Portfolio t)
