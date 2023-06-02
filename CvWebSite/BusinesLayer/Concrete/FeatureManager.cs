@@ -30,7 +30,7 @@ namespace BusinesLayer.Concrete
 
         public Feature TGetById(int id)
         {
-            throw new NotImplementedException();
+            return _featureDal.GetById(id);
         }
 
         public List<Feature> TGetList()
@@ -40,7 +40,7 @@ namespace BusinesLayer.Concrete
 
         public void TUpdate(Feature t)
         {
-            throw new NotImplementedException();
+            _featureDal.Update(t);
         }
     }
 }
