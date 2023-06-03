@@ -1,3 +1,4 @@
+C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\bin\Debug\net7.0\Web.config
 C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\bin\Debug\net7.0\appsettings.Development.json
 C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\bin\Debug\net7.0\appsettings.json
 C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\bin\Debug\net7.0\CvWebSite.staticwebassets.runtime.json
@@ -8,6 +9,9 @@ C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\bin
 C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\bin\Debug\net7.0\CvWebSite.pdb
 C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\bin\Debug\net7.0\Azure.Core.dll
 C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\bin\Debug\net7.0\Humanizer.dll
 C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
@@ -260,6 +264,7 @@ C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\obj
 C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\obj\Debug\net7.0\CvWebSite.AssemblyInfoInputs.cache
 C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\obj\Debug\net7.0\CvWebSite.AssemblyInfo.cs
 C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\obj\Debug\net7.0\CvWebSite.csproj.CoreCompileInputs.cache
+C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\obj\Debug\net7.0\CvWebSite.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\obj\Debug\net7.0\CvWebSite.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\obj\Debug\net7.0\CvWebSite.RazorAssemblyInfo.cache
 C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\obj\Debug\net7.0\CvWebSite.RazorAssemblyInfo.cs
@@ -279,8 +284,3 @@ C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\obj
 C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\obj\Debug\net7.0\CvWebSite.pdb
 C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\obj\Debug\net7.0\CvWebSite.genruntimeconfig.cache
 C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\obj\Debug\net7.0\ref\CvWebSite.dll
-C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\bin\Debug\net7.0\FluentValidation.dll
-C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
-C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
-C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\obj\Debug\net7.0\CvWebSite.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\bin\Debug\net7.0\Web.config
