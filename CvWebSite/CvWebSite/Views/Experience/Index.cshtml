@@ -28,8 +28,8 @@
                                 <td>@item.ExperinceId</td>
                                 <td>@item.Name</td>
                                 <td>@item.Date</td>
-                               <td><a href="#" class="btn btn-outline-danger">Sil</a></td>
-                                <td><a href="#" class="btn btn-outline-success">Güncelle</a></td>
+                                <td><a href="/Experience/DeleteExperience/@item.ExperinceId" class="btn btn-outline-danger">Sil</a></td>
+                                <td><a href="/Experience/EditExperience/@item.ExperinceId" class="btn btn-outline-success">Güncelle</a></td>
                             
                             </tr>
                         }
@@ -37,7 +37,7 @@
                 
                     </tbody>
                 </table>
-                <a href="#" class="btn btn-outline-info">Yeni ekle</a>
+                <a href="/Experience/AddExperience" class="btn btn-outline-info">Yeni ekle</a>
             </div>
         </div>
     </div>
