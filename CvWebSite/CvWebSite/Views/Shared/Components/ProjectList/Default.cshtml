@@ -1,0 +1,54 @@
+﻿@using EntityLayer.Concrete
+@model List<Portfolio>
+
+<div class="row ">
+    <div class="col-12 grid-margin">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Order Status</h4>
+                <div class="table-responsive">
+                    <table class="table">
+                        <thead>
+                            <tr>
+                             
+                                <th> # </th>
+                                <th> Görsel </th>
+                                <th> Proje adı </th>
+                                <th> URL</th>
+                                <th> Fiyat </th>
+                                <th> Tamamlanma Oranı </th>
+                                <th> Durum </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>@item.PortfolioId</td>
+                                    <td><img src=" @item.ImageUrl" /></td>
+                                    <td>@item.Name </td>
+                                    <td>@item.ProjectUrl</td>
+                                    <td> @item.Price </td>
+                                    <td> %@item.Value  </td>
+                                    <td>
+                                        @if(item.Value =="100")
+                                        {
+                                            <div class="badge badge-outline-success">Bitti</div>
+                                        }
+                                        else
+                                        {
+                                            <div class="badge badge-outline-danger">Devam ediyor</div>
+                                        }
+
+                                    </td>
+                                </tr>
+                            }
+                            
+                   
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
