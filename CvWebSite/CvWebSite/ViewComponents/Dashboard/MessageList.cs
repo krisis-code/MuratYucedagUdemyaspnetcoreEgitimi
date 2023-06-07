@@ -7,9 +7,11 @@ namespace CvWebSite.ViewComponents.Dashboard
 {
     public class MessageList : ViewComponent
     {
+        UserMessageManager messageManager =  new UserMessageManager(new EfUserMessageDal());
         public IViewComponentResult Invoke()
         {
-            return View();
+            var values = messageManager.TGetList();
+            return View(values);
         }
     }
 }
