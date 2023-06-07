@@ -1,3 +1,8 @@
+C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\BusinesLayer\obj\Debug\net7.0\BusinesLayer.csproj.AssemblyReference.cache
+C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\BusinesLayer\obj\Debug\net7.0\BusinesLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\BusinesLayer\obj\Debug\net7.0\BusinesLayer.AssemblyInfoInputs.cache
+C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\BusinesLayer\obj\Debug\net7.0\BusinesLayer.AssemblyInfo.cs
+C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\BusinesLayer\obj\Debug\net7.0\BusinesLayer.csproj.CoreCompileInputs.cache
 C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\BusinesLayer\bin\Debug\net7.0\BusinesLayer.deps.json
 C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\BusinesLayer\bin\Debug\net7.0\BusinesLayer.runtimeconfig.json
 C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\BusinesLayer\bin\Debug\net7.0\BusinesLayer.dll
@@ -6,11 +11,6 @@ C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\BusinesLayer\
 C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\BusinesLayer\bin\Debug\net7.0\EntityLayer.dll
 C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\BusinesLayer\bin\Debug\net7.0\DataAccessLayer.pdb
 C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\BusinesLayer\bin\Debug\net7.0\EntityLayer.pdb
-C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\BusinesLayer\obj\Debug\net7.0\BusinesLayer.csproj.AssemblyReference.cache
-C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\BusinesLayer\obj\Debug\net7.0\BusinesLayer.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\BusinesLayer\obj\Debug\net7.0\BusinesLayer.AssemblyInfoInputs.cache
-C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\BusinesLayer\obj\Debug\net7.0\BusinesLayer.AssemblyInfo.cs
-C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\BusinesLayer\obj\Debug\net7.0\BusinesLayer.csproj.CoreCompileInputs.cache
 C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\BusinesLayer\obj\Debug\net7.0\BusinesLayer.csproj.CopyComplete
 C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\BusinesLayer\obj\Debug\net7.0\BusinesLayer.dll
 C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\BusinesLayer\obj\Debug\net7.0\refint\BusinesLayer.dll
