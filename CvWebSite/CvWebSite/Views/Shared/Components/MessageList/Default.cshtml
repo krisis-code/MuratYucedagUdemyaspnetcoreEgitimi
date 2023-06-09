@@ -14,15 +14,15 @@
 
                     <div class="preview-item border-bottom">
                         <div class="preview-thumbnail">
-                            <img src="~/corona-free-dark-bootstrap-admin-template-1.0.0/template/assets/images/faces/face11.jpg" alt="image" class="rounded-circle" />
+                            <img src="@item.user.ImageUrl" alt="image" class="rounded-circle" />
                         </div>
                         <div class="preview-item-content d-flex flex-grow">
                             <div class="flex-grow">
                                 <div class="d-flex d-md-block d-xl-flex justify-content-between">
                                     <h6 class="preview-subject">@item.user.Name</h6>
-                                    <p class="text-muted text-small">4 Hours Ago</p>
+                                    <p class="text-muted text-small">@item.Date</p>
                                 </div>
-                                <p class="text-muted">Thanks a lot. It was easy to fix it .</p>
+                                <p class="text-muted">@item.Content.Substring(0,20)...</p>
                             </div>
                         </div>
                     </div>
