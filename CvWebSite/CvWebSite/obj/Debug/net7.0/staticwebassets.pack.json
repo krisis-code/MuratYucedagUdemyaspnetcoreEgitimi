@@ -417,10 +417,6 @@
       "PackagePath": "staticwebassets\\Template\\scripts\\purecounter.min.js"
     },
     {
-      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\.DS_Store",
-      "PackagePath": "staticwebassets\\argon-dashboard-master\\.DS_Store"
-    },
-    {
       "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\.gitignore",
       "PackagePath": "staticwebassets\\argon-dashboard-master\\.gitignore"
     },
@@ -12281,10 +12277,6 @@
       "PackagePath": "staticwebassets\\argon-dashboard-master\\package.json"
     },
     {
-      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\corona-free-dark-bootstrap-admin-template-1.0.0\\.DS_Store",
-      "PackagePath": "staticwebassets\\corona-free-dark-bootstrap-admin-template-1.0.0\\.DS_Store"
-    },
-    {
       "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\corona-free-dark-bootstrap-admin-template-1.0.0\\.gitignore",
       "PackagePath": "staticwebassets\\corona-free-dark-bootstrap-admin-template-1.0.0\\.gitignore"
     },
@@ -15919,10 +15911,6 @@
     {
       "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\corona-free-dark-bootstrap-admin-template-1.0.0\\template\\index.html",
       "PackagePath": "staticwebassets\\corona-free-dark-bootstrap-admin-template-1.0.0\\template\\index.html"
-    },
-    {
-      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\corona-free-dark-bootstrap-admin-template-1.0.0\\template\\package-lock.json",
-      "PackagePath": "staticwebassets\\corona-free-dark-bootstrap-admin-template-1.0.0\\template\\package-lock.json"
     },
     {
       "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\corona-free-dark-bootstrap-admin-template-1.0.0\\template\\package.json",

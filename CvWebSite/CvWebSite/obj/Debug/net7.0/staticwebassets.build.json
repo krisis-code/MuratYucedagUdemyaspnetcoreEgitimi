@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/GpTxLpFSnO3mvICFShT4Zb2SdS3wrAfjSB69u3sVek=",
+  "Hash": "yz0D8x3EceCPC4ApKPZm833A00jMqgPJCd1BEg6XLP4=",
   "Source": "CvWebSite",
   "BasePath": "_content/CvWebSite",
   "Mode": "Default",
@@ -49,23 +49,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\CvWebSite.bundle.scp.css"
-    },
-    {
-      "Identity": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\.DS_Store",
-      "SourceId": "CvWebSite",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\",
-      "BasePath": "_content/CvWebSite",
-      "RelativePath": "argon-dashboard-master/.DS_Store",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\argon-dashboard-master\\.DS_Store"
     },
     {
       "Identity": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\.gitignore",
@@ -50473,23 +50456,6 @@
       "OriginalItemSpec": "wwwroot\\argon-dashboard-master\\README.md"
     },
     {
-      "Identity": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\corona-free-dark-bootstrap-admin-template-1.0.0\\.DS_Store",
-      "SourceId": "CvWebSite",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\",
-      "BasePath": "_content/CvWebSite",
-      "RelativePath": "corona-free-dark-bootstrap-admin-template-1.0.0/.DS_Store",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\corona-free-dark-bootstrap-admin-template-1.0.0\\.DS_Store"
-    },
-    {
       "Identity": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\corona-free-dark-bootstrap-admin-template-1.0.0\\.gitignore",
       "SourceId": "CvWebSite",
       "SourceType": "Discovered",
@@ -65958,23 +65924,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\corona-free-dark-bootstrap-admin-template-1.0.0\\template\\package.json"
-    },
-    {
-      "Identity": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\corona-free-dark-bootstrap-admin-template-1.0.0\\template\\package-lock.json",
-      "SourceId": "CvWebSite",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\",
-      "BasePath": "_content/CvWebSite",
-      "RelativePath": "corona-free-dark-bootstrap-admin-template-1.0.0/template/package-lock.json",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\corona-free-dark-bootstrap-admin-template-1.0.0\\template\\package-lock.json"
     },
     {
       "Identity": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\corona-free-dark-bootstrap-admin-template-1.0.0\\template\\pages\\charts\\chartjs.html",
