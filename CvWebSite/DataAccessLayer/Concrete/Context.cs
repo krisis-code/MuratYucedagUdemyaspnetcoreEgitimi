@@ -12,7 +12,7 @@ namespace DataAccessLayer.Concrete
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("server=KRISIS\\SQLEXPRESS; database = CvWebSiteDb; integrated security = true; TrustServerCertificate=True;");
+            optionsBuilder.UseSqlServer("server=DESKTOP-9JCBJ7U\\SQLEXPRESS; database = CvWebSiteDb; integrated security = true; TrustServerCertificate=True;");
 
         }
 
