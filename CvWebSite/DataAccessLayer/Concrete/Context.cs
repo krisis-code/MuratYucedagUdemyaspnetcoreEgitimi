@@ -15,7 +15,7 @@ namespace DataAccessLayer.Concrete
             //Home
             optionsBuilder.UseSqlServer("server=KRISIS\\SQLEXPRESS; database = CvWebSiteDb; integrated security = true; TrustServerCertificate=True;");
 
-            //Work
+            ////Work
             //optionsBuilder.UseSqlServer("server=DESKTOP-9JCBJ7U\\SQLEXPRESS; database = CvWebSiteDb; integrated security = true; TrustServerCertificate=True;");
 
         }
