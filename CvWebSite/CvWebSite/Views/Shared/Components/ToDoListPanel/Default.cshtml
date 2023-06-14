@@ -11,15 +11,6 @@
             </div>
             <div class="list-wrapper">
                 <ul class="d-flex flex-column-reverse text-white todo-list todo-list-custom">
-                 
-                   @* <li class="completed">
-                        <div class="form-check form-check-primary">
-                            <label class="form-check-label">
-                                <input class="checkbox" type="checkbox" checked> Prepare for presentation
-                            </label>
-                        </div>
-                        <i class="remove mdi mdi-close-box"></i>
-                    </li>*@
                     @foreach (var item in Model)
                     {
                         <li>
@@ -30,7 +21,15 @@
                             </div>
                             <i class="remove mdi mdi-close-box"></i>
                         </li>
-                    }
+                    }                   @* <li class="completed">
+                        <div class="form-check form-check-primary">
+                            <label class="form-check-label">
+                                <input class="checkbox" type="checkbox" checked> Prepare for presentation
+                            </label>
+                        </div>
+                        <i class="remove mdi mdi-close-box"></i>
+                    </li>*@
+                  
                    
              
                 </ul>
