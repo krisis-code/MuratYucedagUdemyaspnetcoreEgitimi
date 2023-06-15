@@ -119,4 +119,12 @@
     <ProjectReference Include="..\EntityLayer\EntityLayer.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Areas\" />
+    <Folder Include="Areas\Writer\Controllers\" />
+    <Folder Include="Areas\Writer\Data\" />
+    <Folder Include="Areas\Writer\Models\" />
+    <Folder Include="Areas\Writer\Views\" />
+  </ItemGroup>
+
 </Project>
