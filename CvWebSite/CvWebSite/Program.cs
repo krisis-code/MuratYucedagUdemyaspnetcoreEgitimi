@@ -1,11 +1,17 @@
+using DataAccessLayer.Concrete;
 using EntityLayer.Concrete;
-using jdk.nashorn.@internal.runtime;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddControllersWithViews();
+builder.Services.AddDbContext<Context>();
+
 builder.Services.AddIdentity<WriterUser, WriterRole>().AddEntityFrameworkStores<Context>();
+
+builder.Services.AddControllersWithViews();
+
+
 
 var app = builder.Build();
 
