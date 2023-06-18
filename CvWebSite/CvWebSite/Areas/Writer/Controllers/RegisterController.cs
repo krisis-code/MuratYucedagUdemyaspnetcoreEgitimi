@@ -1,32 +1,33 @@
 ﻿using CvWebSite.Areas.Writer.Models;
 using EntityLayer.Concrete;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CvWebSite.Areas.Writer.Controllers
 {
-    public class RegisterController : Controller
-    {
-
-
-        private readonly UserManager<WriterUser> _userManager;
-
-        public RegisterController(UserManager<WriterUser> userManager)
-        {
-            _userManager = userManager;
-        }
-
+  
+        [AllowAnonymous]
         [Area("Writer")]
-        [HttpGet]
-        public IActionResult Index()
+        [Route("Writer/[controller]/[action]")]
+        public class RegisterController : Controller
         {
-            return View(new UserRegisterViewModel());
-        }
 
-        [HttpPost]
-        public async Task< IActionResult> Index(UserRegisterViewModel p)
-        {
-            if (ModelState.IsValid)
+            private readonly UserManager<WriterUser> _userManager;
+
+            public RegisterController(UserManager<WriterUser> userManager)
+            {
+                _userManager = userManager;
+            }
+
+            [HttpGet]
+            public IActionResult Index()
+            {
+                return View(new UserRegisterViewModel());
+            }
+
+            [HttpPost]
+            public async Task<IActionResult> Index(UserRegisterViewModel p)
             {
                 WriterUser w = new WriterUser()
                 {
@@ -35,28 +36,25 @@ namespace CvWebSite.Areas.Writer.Controllers
                     Email = p.Mail,
                     UserName = p.UserName,
                     ImageUrl = p.ImageUrl
-
                 };
 
-                var result = await _userManager.CreateAsync(w, p.Password);
+                if (p.Password == p.ConfirmPassword)
+                {
+                    var result = await _userManager.CreateAsync(w, p.Password);
 
-                if (result.Succeeded)
-                {
-                    return RedirectToAction("/Index", "Login");
-                }
-                else
-                {
-                    foreach (var item in result.Errors)
+                    if (result.Succeeded)
                     {
-                        ModelState.AddModelError("", item.Description);
-
+                        return RedirectToAction("Index", "Login");
                     }
-
+                    else
+                    {
+                        foreach (var item in result.Errors)
+                        {
+                            ModelState.AddModelError("", item.Description);
+                        }
+                    }
                 }
-
+                return View(p);
             }
-
-            return View(p);
         }
     }
-}
