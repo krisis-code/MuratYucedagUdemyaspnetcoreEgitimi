@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using CvWebSite.Areas.Writer.Models;
+using Microsoft.AspNetCore.Mvc;
 
 namespace CvWebSite.Areas.Writer.Controllers
 {
@@ -12,8 +13,13 @@ namespace CvWebSite.Areas.Writer.Controllers
         }
 
         [HttpPost]
-        public IActionResult Index(int id)
+        public IActionResult Index(UserRegisterViewModel p)
         {
+            if (ModelState.IsValid)
+            {
+                
+
+            }
             return View();
         }
     }
