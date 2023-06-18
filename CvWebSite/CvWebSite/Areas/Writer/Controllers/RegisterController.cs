@@ -9,12 +9,12 @@ namespace CvWebSite.Areas.Writer.Controllers
     {
 
 
-        //private readonly UserManager<WriterUser> _userManager;
+        private readonly UserManager<WriterUser> _userManager;
 
-        //public RegisterController(UserManager<WriterUser> userManager)
-        //{
-        //    _userManager = userManager;
-        //}
+        public RegisterController(UserManager<WriterUser> userManager)
+        {
+            _userManager = userManager;
+        }
 
         [Area("Writer")]
         [HttpGet]
@@ -26,36 +26,36 @@ namespace CvWebSite.Areas.Writer.Controllers
         [HttpPost]
         public async Task< IActionResult> Index(UserRegisterViewModel p)
         {
-            //if (ModelState.IsValid)
-            //{
-            //    WriterUser w = new WriterUser()
-            //    {
-            //        Name = p.Name,
-            //        Surname = p.Surname,
-            //        Email = p.Mail,
-            //        UserName = p.UserName,
-            //        ImageUrl = p.ImageUrl
+            if (ModelState.IsValid)
+            {
+                WriterUser w = new WriterUser()
+                {
+                    Name = p.Name,
+                    Surname = p.Surname,
+                    Email = p.Mail,
+                    UserName = p.UserName,
+                    ImageUrl = p.ImageUrl
 
-            //    };
+                };
 
-            //    var result = await _userManager.CreateAsync(w,p.Password);
+                var result = await _userManager.CreateAsync(w, p.Password);
 
-            //    if (result.Succeeded)
-            //    {
-            //        return RedirectToAction("/Index", "Login");
-            //    }
-            //    else
-            //    {
-            //        foreach (var item in result.Errors)
-            //        {
-            //            ModelState.AddModelError("", item.Description);
+                if (result.Succeeded)
+                {
+                    return RedirectToAction("/Index", "Login");
+                }
+                else
+                {
+                    foreach (var item in result.Errors)
+                    {
+                        ModelState.AddModelError("", item.Description);
 
-            //        }
+                    }
 
-            //    }
-             
-            //}
-        
+                }
+
+            }
+
             return View(p);
         }
     }
