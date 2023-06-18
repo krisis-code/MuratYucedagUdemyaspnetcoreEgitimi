@@ -526,3 +526,9 @@ C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\bin
 C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
 C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
 C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\bin\Debug\net7.0\Microsoft.Extensions.Options.dll

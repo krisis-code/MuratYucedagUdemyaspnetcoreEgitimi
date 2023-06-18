@@ -1,4 +1,5 @@
 ﻿using EntityLayer.Concrete;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -8,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace DataAccessLayer.Concrete
 {
-    public class Context : DbContext
+    public class Context : IdentityDbContext
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
@@ -16,7 +17,7 @@ namespace DataAccessLayer.Concrete
             optionsBuilder.UseSqlServer("server=KRISIS\\SQLEXPRESS; database = CvWebSiteDb; integrated security = true; TrustServerCertificate=True;");
 
             //Work
-            optionsBuilder.UseSqlServer("server=DESKTOP-9JCBJ7U\\SQLEXPRESS; database = CvWebSiteDb; integrated security = true; TrustServerCertificate=True;");
+            //optionsBuilder.UseSqlServer("server=DESKTOP-9JCBJ7U\\SQLEXPRESS; database = CvWebSiteDb; integrated security = true; TrustServerCertificate=True;");
 
         }
 
