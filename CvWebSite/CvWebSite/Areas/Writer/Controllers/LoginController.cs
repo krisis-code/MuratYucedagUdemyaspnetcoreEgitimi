@@ -14,13 +14,13 @@ namespace CvWebSite.Areas.Writer.Controllers
         {
             _signInManager = signInManager;
         }
-
+        [HttpGet]
         public IActionResult Index()
         {
             return View();
         }
         [HttpPost]
-        public async Task<IActionResult>SignIn(UserLoginViewModel p)
+        public async Task<IActionResult> Index(UserLoginViewModel p)
         {
             if (ModelState.IsValid)
             {
