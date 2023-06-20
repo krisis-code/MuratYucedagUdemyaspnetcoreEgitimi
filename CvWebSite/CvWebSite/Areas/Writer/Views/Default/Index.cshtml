@@ -5,6 +5,10 @@
     ViewData["Title"] = "Index";
     Layout = "~/Views/Shared/_WriterLayout.cshtml";
 }
+@{
+    string color = "";
+
+}
 
 <div class="col-lg-12 grid-margin stretch-card">
     <div class="card">
@@ -24,13 +28,20 @@
                     <tbody>
                         @foreach (var item in Model)
                         {
-
+                            if (item.Status == "Yeni yazı")
+                            {
+                                color = "badge badge-danger";
+                            }
+                            if (item.Status == "Yeni video")
+                            {
+                                color = "badge badge-warning";
+                            }
 
                             <tr>
                                 <td>@item.Id</td>
                                 <td>@item.Title</td>
                                 <td>@item.Date</td>
-                                <td><label class="badge badge-danger">Pending</label></td>
+                                <td><label class="@color">@item.Status</label></td>
                             </tr>
 
                         }
