@@ -1103,3 +1103,4 @@ C:\Users\IPFS\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\obj
 C:\Users\IPFS\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\obj\Debug\net7.0\CvWebSite.pdb
 C:\Users\IPFS\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\obj\Debug\net7.0\CvWebSite.genruntimeconfig.cache
 C:\Users\IPFS\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\obj\Debug\net7.0\ref\CvWebSite.dll
+C:\Users\IPFS\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\obj\Debug\net7.0\CvWebSite.MvcApplicationPartsAssemblyInfo.cs

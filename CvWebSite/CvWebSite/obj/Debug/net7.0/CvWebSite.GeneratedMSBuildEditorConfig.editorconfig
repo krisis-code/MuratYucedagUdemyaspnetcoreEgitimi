@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\IPFS\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/IPFS/Desktop/MuratYucedagUdemyaspnetcoreEgitimi/CvWebSite/CvWebSite/Areas/Writer/Views/Default/AnnouncementDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV3JpdGVyXFZpZXdzXERlZmF1bHRcQW5ub3VuY2VtZW50RGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/IPFS/Desktop/MuratYucedagUdemyaspnetcoreEgitimi/CvWebSite/CvWebSite/Areas/Writer/Views/Default/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV3JpdGVyXFZpZXdzXERlZmF1bHRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
