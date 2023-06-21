@@ -3,38 +3,34 @@
     Layout = null;
 }
 
-<html>
+<!DOCTYPE html>
+<html lang="en">
 
-@await Html.PartialAsync("_HeadPartial")
-
+@await Html.PartialAsync("/Areas/Writer/Views/Default/_HeadPartial.cshtml")
 
 <body>
-  <div class="container-scroller">
-    <!-- partial:~/Skydash/partials/_navbar.html -->
-        @await Html.PartialAsync("_NavBarPartial")
-    <!-- partial -->
-   
-    
-    <div class="container-fluid page-body-wrapper">
-           @await Html.PartialAsync("_SideBarPartial")
-      <!-- partial -->
-      <div class="main-panel">
-        <div class="content-wrapper">
-          <div class="row">
-              @RenderBody()
-          </div>
-        </div>
-        <!-- content-wrapper ends -->
-        <!-- partial:~/Skydash/partials/_footer.html -->
-                @await Html.PartialAsync("_FooterPartial")
+    <div class="container-scroller">
+        <!-- partial:../../partials/_navbar.html -->
+        @await Html.PartialAsync("/Areas/Writer/Views/Default/_NavbarPartial.cshtml")
         <!-- partial -->
-      </div>
-      <!-- main-panel ends -->
+        <div class="container-fluid page-body-wrapper">
+
+            <!-- partial:../../partials/_sidebar.html -->
+            @await Html.PartialAsync("/Areas/Writer/Views/Default/_SidebarPartial.cshtml")
+            <!-- partial -->
+            <div class="main-panel">
+                <div class="content-wrapper">
+
+                    @RenderBody()
+
+                </div>
+                @await Html.PartialAsync("/Areas/Writer/Views/Default/_FooterPartial.cshtml")
+            </div>
+            <!-- main-panel ends -->
+        </div>
+        <!-- page-body-wrapper ends -->
     </div>
-    <!-- page-body-wrapper ends -->
+    @await Html.PartialAsync("/Areas/Writer/Views/Default/_ScriptPartial.cshtml")
+</body>
 
-  </div>
-    @await Html.PartialAsync("_ScriptPartial")
-
-    </body>
-    </html>
+</html>
