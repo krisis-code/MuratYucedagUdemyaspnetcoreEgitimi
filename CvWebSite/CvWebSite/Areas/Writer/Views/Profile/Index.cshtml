@@ -1,4 +1,4 @@
-﻿@model EntityLayer.Concrete.WriterUser
+﻿@model CvWebSite.Areas.Writer.Models.UserEditViewModel 
 @{
     ViewData["Title"] = "Index";
     Layout = "~/Views/Shared/_WriterLayout.cshtml";
@@ -11,14 +11,14 @@
             <p class="card-description">
               Profil Düzenleme
             </p>
-            <form class="forms-sample">
+            <form class="forms-sample" method="post" enctype="multipart/form-data">
                 <div class="form-group">
                     <label for="exampleInputName1">Adınız</label>
-                    <input type="text" name="@Model.Name" value="@Model.Name" class="form-control" id="exampleInputName1" placeholder="Ad">
+                    <input type="text" asp-for="Name" class="form-control" id="exampleInputName1" placeholder="Ad">
                 </div>
                 <div class="form-group">
                     <label for="exampleInputName1">Soyadınız</label>
-                    <input type="text" name="@Model.Surname" value="@Model.Surname" class="form-control" id="exampleInputName1" placeholder="Soyad">
+                    <input type="text" asp-for="Surname"  class="form-control" id="exampleInputName1" placeholder="Soyad">
                 </div>
                
                 <div class="form-group">
@@ -32,13 +32,13 @@
              
                 <div class="form-group">
                     <label>Resim Seç</label>
-                    <input type="file" name="img[]" class="file-upload-default">
-                    <div class="input-group col-xs-12">
+                    <input type="file" asp-for="PictureUrl" >
+                   @* <div class="input-group col-xs-12">
                         <input type="text" class="form-control file-upload-info" disabled placeholder="Resim Yükleyin">
                         <span class="input-group-append">
                             <button class="file-upload-browse btn btn-primary" type="button">Yükle</button>
                         </span>
-                    </div>
+                    </div>*@
                 </div>
                 
              
