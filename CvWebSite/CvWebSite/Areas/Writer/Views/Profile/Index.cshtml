@@ -1,4 +1,4 @@
-﻿
+﻿@model EntityLayer.Concrete.WriterUser
 @{
     ViewData["Title"] = "Index";
     Layout = "~/Views/Shared/_WriterLayout.cshtml";
@@ -14,16 +14,16 @@
             <form class="forms-sample">
                 <div class="form-group">
                     <label for="exampleInputName1">Adınız</label>
-                    <input type="text" class="form-control" id="exampleInputName1" placeholder="Ad">
+                    <input type="text" name="@Model.Name" value="@Model.Name" class="form-control" id="exampleInputName1" placeholder="Ad">
                 </div>
                 <div class="form-group">
                     <label for="exampleInputName1">Soyadınız</label>
-                    <input type="text" class="form-control" id="exampleInputName1" placeholder="Soyad">
+                    <input type="text" name="@Model.Surname" value="@Model.Surname" class="form-control" id="exampleInputName1" placeholder="Soyad">
                 </div>
                
                 <div class="form-group">
                     <label for="exampleInputPassword4">Şifreniz</label>
-                    <input type="password" class="form-control" id="exampleInputPassword4" placeholder="Şifre">
+                    <input type="password"  class="form-control" id="exampleInputPassword4" placeholder="Şifre">
                 </div>
                 <div class="form-group">
                     <label for="exampleInputPassword4">Şifre Tekrar</label>
