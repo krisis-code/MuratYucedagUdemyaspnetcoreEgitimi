@@ -4464,23 +4464,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\IPFS\\.nuget\\packages\\": {},
+    "C:\\Users\\Kris\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\IPFS\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\BusinesLayer\\BusinesLayer.csproj",
+      "projectUniqueName": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\BusinesLayer\\BusinesLayer.csproj",
       "projectName": "BusinesLayer",
-      "projectPath": "C:\\Users\\IPFS\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\BusinesLayer\\BusinesLayer.csproj",
-      "packagesPath": "C:\\Users\\IPFS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\IPFS\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\BusinesLayer\\obj\\",
+      "projectPath": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\BusinesLayer\\BusinesLayer.csproj",
+      "packagesPath": "C:\\Users\\Kris\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\BusinesLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\IPFS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Kris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4494,11 +4497,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\IPFS\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\DataAccessLayer\\DataAccessLayer.csproj": {
-              "projectPath": "C:\\Users\\IPFS\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\DataAccessLayer\\DataAccessLayer.csproj"
+            "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\DataAccessLayer\\DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\DataAccessLayer\\DataAccessLayer.csproj"
             },
-            "C:\\Users\\IPFS\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\EntityLayer\\EntityLayer.csproj": {
-              "projectPath": "C:\\Users\\IPFS\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\EntityLayer\\EntityLayer.csproj"
+            "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\EntityLayer\\EntityLayer.csproj": {
+              "projectPath": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\EntityLayer\\EntityLayer.csproj"
             }
           }
         }

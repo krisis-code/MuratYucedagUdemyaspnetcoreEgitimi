@@ -5,9 +5,9 @@
 <!-- upto 2 directory depth-->
 <html lang="en-US">
 
-@await Html.PartialAsync("HeaderPartial")
+@await Html.PartialAsync("/Views/Default/HeaderPartial.cshtml")
 <body id="top">
-    @await Html.PartialAsync("NavbarPartial")
+    @await Html.PartialAsync("/Views/Default/NavbarPartial.cshtml")
     <div class="page-content">
         <div id="content">
             @await Component.InvokeAsync("FeatureList")
