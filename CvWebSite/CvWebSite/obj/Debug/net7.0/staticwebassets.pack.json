@@ -7445,10 +7445,6 @@
       "PackagePath": "staticwebassets\\Template\\scripts\\purecounter.min.js"
     },
     {
-      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\UserImage\\67fc0cac-3351-4eb6-9a61-58a63a1cda43.jpeg",
-      "PackagePath": "staticwebassets\\UserImage\\67fc0cac-3351-4eb6-9a61-58a63a1cda43.jpeg"
-    },
-    {
       "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\argon-dashboard-master\\assets\\vendor\\gulp-copy\\node_modules\\yargs-parser\\LICENSE.txt",
       "PackagePath": "staticwebassets\\argon-dashboard-master\\assets\\vendor\\gulp-copy\\node_modules\\yargs-parser\\LICENSE.txt"
     },
@@ -11479,6 +11475,10 @@
     {
       "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\userimage\\DSCF0253.jpg",
+      "PackagePath": "staticwebassets\\userimage\\DSCF0253.jpg"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.CvWebSite.Microsoft.AspNetCore.StaticWebAssets.props",

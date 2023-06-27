@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mHrltvL2SB6BfohV3qCcPJ8NhWxhaiMpyir4cuYpOI8=",
+  "Hash": "yQqnPB0syu22gP2xC0j1dMpzITMekU0H/tDCkUfCDak=",
   "Source": "CvWebSite",
   "BasePath": "_content/CvWebSite",
   "Mode": "Default",
@@ -48807,12 +48807,12 @@
       "OriginalItemSpec": "wwwroot\\Template\\scripts\\purecounter.min.js"
     },
     {
-      "Identity": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\UserImage\\67fc0cac-3351-4eb6-9a61-58a63a1cda43.jpeg",
+      "Identity": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\userimage\\DSCF0253.jpg",
       "SourceId": "CvWebSite",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\CvWebSite\\wwwroot\\",
       "BasePath": "_content/CvWebSite",
-      "RelativePath": "UserImage/67fc0cac-3351-4eb6-9a61-58a63a1cda43.jpeg",
+      "RelativePath": "userimage/DSCF0253.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -48821,7 +48821,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\UserImage\\67fc0cac-3351-4eb6-9a61-58a63a1cda43.jpeg"
+      "OriginalItemSpec": "wwwroot\\userimage\\DSCF0253.jpg"
     }
   ]
 }
