@@ -3,6 +3,7 @@ using DataAccessLayer.Concrete;
 using EntityLayer.Concrete;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using System.Xml.Linq;
 
 namespace CvWebSite.Areas.Writer.Controllers
 {
@@ -21,6 +22,15 @@ namespace CvWebSite.Areas.Writer.Controllers
             var values = await _userManager.FindByNameAsync(User.Identity.Name);
             ViewBag.v = values.Name + " " + values.Surname;
 
+
+            //weater api
+            string api = "bc02bd29cb8dd5abdda09924153015ee";
+            string connetion = "https://api.openweathermap.org/data/2.5/weather?q=%C4%B0stanbul&mode=xml&lang=tr&units=metric&appid="+api;
+            XDocument document = XDocument.Load(connetion);
+            ViewBag.v5 = document.Descendants("temperature").ElementAt(0).Attribute("value").Value;
+
+
+
             //Statistic
 
             Context c = new Context();
@@ -32,3 +42,9 @@ namespace CvWebSite.Areas.Writer.Controllers
         }
     }
 }
+/*
+ 
+ bc02bd29cb8dd5abdda09924153015ee
+ 
+ 
+ */
