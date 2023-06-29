@@ -14,7 +14,10 @@ namespace EntityLayer.Concrete
 
         public string Sender { get; set; }
 
+        public string SenderName { get; set; }
         public string Receiver { get; set; }
+
+        public string ReceiverName { get; set; }
 
         public string Subject { get; set; }
 

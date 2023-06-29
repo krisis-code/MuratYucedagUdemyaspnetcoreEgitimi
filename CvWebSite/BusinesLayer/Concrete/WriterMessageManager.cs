@@ -16,6 +16,16 @@ namespace BusinesLayer.Concrete
             _WriterMessageDal = writerMessageDal;
         }
 
+        public List<WriterMessage> GetListReceiverMessage(string p)
+        {
+            return _WriterMessageDal.GetByFilter(x => x.Receiver == p);
+        }
+
+        public List<WriterMessage> GetListSenderMessage(string p)
+        {
+            return _WriterMessageDal.GetByFilter(x => x.Sender == p);
+        }
+
         public void TAdd(WriterMessage t)
         {
             throw new NotImplementedException();
@@ -31,19 +41,20 @@ namespace BusinesLayer.Concrete
             throw new NotImplementedException();
         }
 
+        public List<WriterMessage> TGetList(string p)
+        {
+            return _WriterMessageDal.GetByFilter(x => x.Receiver == p);
+        }
+
         public List<WriterMessage> TGetList()
         {
             throw new NotImplementedException();
         }
 
-       
-
         public List<WriterMessage> TGetListByFilter(string p)
         {
-            return _WriterMessageDal.GetByFilter(x => x.Receiver == p);
+            throw new NotImplementedException();
         }
-
-       
 
         public void TUpdate(WriterMessage t)
         {
