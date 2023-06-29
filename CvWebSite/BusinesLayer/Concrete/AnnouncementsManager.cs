@@ -40,6 +40,11 @@ namespace BusinesLayer.Concrete
            return _ıannouncementsDal.GetList();
         }
 
+        public List<Announcement> TGetListByFilter(string p)
+        {
+            throw new NotImplementedException();
+        }
+
         public void TUpdate(Announcement t)
         {
             throw new NotImplementedException();

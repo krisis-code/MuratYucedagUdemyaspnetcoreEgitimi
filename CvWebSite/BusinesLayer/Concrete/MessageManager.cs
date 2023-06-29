@@ -33,6 +33,11 @@ namespace BusinesLayer.Concrete
             throw new NotImplementedException();
         }
 
+        public List<Message> TGetListByFilter(string p)
+        {
+            throw new NotImplementedException();
+        }
+
         public void TUpdate(Message t)
         {
             throw new NotImplementedException();

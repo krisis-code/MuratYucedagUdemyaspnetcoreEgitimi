@@ -38,6 +38,11 @@ namespace BusinesLayer.Concrete
            return _experinceDal.GetList();
         }
 
+        public List<Experience> TGetListByFilter(string p)
+        {
+            throw new NotImplementedException();
+        }
+
         public void TUpdate(Experience t)
         {
            _experinceDal.Update(t);
