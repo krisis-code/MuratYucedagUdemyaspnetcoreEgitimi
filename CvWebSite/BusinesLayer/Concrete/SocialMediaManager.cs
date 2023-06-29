@@ -3,6 +3,7 @@ using EntityLayer.Concrete;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -20,6 +21,11 @@ namespace BusinesLayer.Concrete
         public void Delete(SocialMedia t)
         {
             _socialMediaDal.Delete(t);
+        }
+
+        public List<SocialMedia> GetByFilter(Expression<Func<SocialMedia, bool>> filter)
+        {
+            throw new NotImplementedException();
         }
 
         public SocialMedia GetById(int id)
