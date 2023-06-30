@@ -248,7 +248,6 @@ C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\obj
 C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\obj\Debug\net7.0\CvWebSite.AssemblyInfoInputs.cache
 C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\obj\Debug\net7.0\CvWebSite.AssemblyInfo.cs
 C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\obj\Debug\net7.0\CvWebSite.csproj.CoreCompileInputs.cache
-C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\obj\Debug\net7.0\CvWebSite.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\obj\Debug\net7.0\CvWebSite.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\obj\Debug\net7.0\CvWebSite.RazorAssemblyInfo.cache
 C:\Users\Kris\Desktop\MuratYucedagUdemyaspnetcoreEgitimi\CvWebSite\CvWebSite\obj\Debug\net7.0\CvWebSite.RazorAssemblyInfo.cs
