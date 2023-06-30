@@ -18,18 +18,19 @@
                             <th>Konu.</th>
                             <th>Alıcı</th>
                             <th>Detaylar</th>
-                            <th>Detaylar</th>
                         </tr>
                     </thead>
                     <tbody>
                         @foreach (var item in Model)
                         {
+                          
 
-                          <tr>
+                            <tr>
                                 <th>@item.WriterMessageId</th>
                                 <td>@item.Subject</td>
                                 <td>@item.ReceiverName</td>
                                 <td>@(((DateTime)@item.Date).ToString("dd-MM-yyyy"))</td>
+                               
                                 <td><a href="/Writer/Message/MessageDetails/@item.WriterMessageId" class="btn btn-outline-primary">Mesajı gör</a></td>
                             </tr>
 
