@@ -33,5 +33,13 @@ namespace CvWebSite.Areas.Writer.Controllers
             var messageList = writerMessageManager.GetListSenderMessage(p);
             return View(messageList);
         }
+        [HttpGet]
+        public IActionResult MessageDetails(int Id)
+        {
+            WriterMessage writerMessage = writerMessageManager.TGetById(Id);
+            return View(writerMessage);
+
+
+        }
     }
 }
