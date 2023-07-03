@@ -34,10 +34,10 @@ namespace CvWebSite.Areas.Writer.Controllers
             //Statistic
 
             Context c = new Context();
-            ViewBag.v1 = 0;
+            ViewBag.v1 = c.WriterMessages.Where(x=>x.Receiver==values.Email).Count();
             ViewBag.v2 = c.announcements.Count();
-            ViewBag.v3 = 0;
-            ViewBag.v4 = c.skills.Count();
+            ViewBag.v3 = c.Users.Count();
+            ViewBag.v4 = c.WriterMessages.Where(x => x.Sender == values.Email).Count();
             return View();
         }
     }
