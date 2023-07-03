@@ -42,12 +42,12 @@ namespace CvWebSite.Areas.Writer.Controllers
                 user.ImageUrl = imagename;
             }
             user.Name = p.Name;
-            user.Surname = p.Surname;
+            user.Surname = p.Surname; 
             user.PasswordHash = _userManager.PasswordHasher.HashPassword(user, p.Password);
             var result = await _userManager.UpdateAsync(user);
             if (result.Succeeded)
             {
-                return RedirectToAction("Index", "Login");
+                return RedirectToAction("Index", "Writer/Login");
             }
             return View();
         }
