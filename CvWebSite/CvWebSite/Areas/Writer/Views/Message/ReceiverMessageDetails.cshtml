@@ -11,13 +11,13 @@
     @Html.HiddenFor(x => x.WriterMessageId, new {@class = "form-control"})
     <br />
     @Html.Label("Alıcı adı")
-    @Html.LabelFor(x => x.ReceiverName,new {@class = "form-control"})
+    @Html.TextBoxFor(x => x.ReceiverName,new {@class = "form-control"})
     <br />
     @Html.Label("Alıcı Mail")
-    @Html.LabelFor(x => x.Receiver,new {@class = "form-control"})
+    @Html.TextBoxFor(x => x.Receiver,new {@class = "form-control"})
     <br />
     @Html.Label("Mesajınız")
-    @Html.LabelFor(x => x.MessageContent, new {@class = "form-control"})
+    @Html.TextBoxFor(x => x.MessageContent, new {@class = "form-control"})
 
 
 
