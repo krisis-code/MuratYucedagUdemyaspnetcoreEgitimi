@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace CvWebSite.Areas.Writer.Controllers
 {
     [Area("Writer")]
-    [Route("Writer/[controller]/[action]")]
+    [Route("Writer/Message")]
     public class MessageController : Controller
     {
         WriterMessageManager writerMessageManager = new WriterMessageManager(new EfWriterMessageDal());
@@ -19,7 +19,8 @@ namespace CvWebSite.Areas.Writer.Controllers
         {
             this._userManager = userManager;
         }
-
+        [Route("")]
+        [Route("ReceiverMessage")]
         public async Task<IActionResult> ReceiverMessage(string p)
         {
             var values = await _userManager.FindByNameAsync(User.Identity.Name);
@@ -27,7 +28,8 @@ namespace CvWebSite.Areas.Writer.Controllers
             var messageList = writerMessageManager.GetListReceiverMessage(p);
             return View(messageList);
         }
-
+        [Route("")]
+        [Route("SenderMessage")]
         public async Task<IActionResult> SenderMessage(string p)
         {
             var values = await _userManager.FindByNameAsync(User.Identity.Name);
@@ -35,7 +37,8 @@ namespace CvWebSite.Areas.Writer.Controllers
             var messageList = writerMessageManager.GetListSenderMessage(p);
             return View(messageList);
         }
-
+        [Route("MessageDetails/{Id}")]
+  
         public IActionResult MessageDetails(int Id)
         {
             WriterMessage writerMessage = writerMessageManager.TGetById(Id);
@@ -43,6 +46,7 @@ namespace CvWebSite.Areas.Writer.Controllers
 
 
         }
+        [Route("ReceiverMessageDetails/{Id}")]
         public IActionResult ReceiverMessageDetails(int Id)
         {
             WriterMessage writerMessage = writerMessageManager.TGetById(Id);
@@ -50,11 +54,15 @@ namespace CvWebSite.Areas.Writer.Controllers
 
 
         }
+        [Route("")]
+        [Route("SendMessage")]
         [HttpGet]
         public IActionResult SendMessage()
         {
             return View();
         }
+        [Route("")]
+        [Route("SendMessage")]
         [HttpPost]
         public async Task<IActionResult> SendMessage(WriterMessage p)
         {
