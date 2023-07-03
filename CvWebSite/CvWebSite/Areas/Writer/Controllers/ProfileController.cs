@@ -47,7 +47,7 @@ namespace CvWebSite.Areas.Writer.Controllers
             var result = await _userManager.UpdateAsync(user);
             if (result.Succeeded)
             {
-                return RedirectToAction("Index", "Writer/Login");
+                return RedirectToAction("Index", "Login");
             }
             return View();
         }
