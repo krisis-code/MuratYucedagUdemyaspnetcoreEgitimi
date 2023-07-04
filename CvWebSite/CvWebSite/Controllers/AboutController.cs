@@ -12,27 +12,15 @@ namespace CvWebSite.Controllers
         [HttpGet]
         public IActionResult Index()
         {
-            ViewBag.v1 = "Hakkında Düzenleme";
-            ViewBag.v2 = "Hakkında";
-            ViewBag.v3 = "Hakkında Düzenleme";
             var values = aboutManager.TGetById(1);
-
             return View(values);
-
-
-
-
-
 
         }
         [HttpPost]
         public IActionResult Index(About about)
         {
-            ViewBag.v1 = "Hakkında Düzenleme";
-            ViewBag.v2 = "Hakkında";
-            ViewBag.v3 = "Hakkında Düzenleme";
+           
             aboutManager.TUpdate(about);
-
             return RedirectToAction("Index", "Default");
 
         }

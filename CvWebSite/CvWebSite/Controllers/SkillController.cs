@@ -10,18 +10,14 @@ namespace CvWebSite.Controllers
         SkillManager skillManager = new SkillManager(new EfSkillDal());
         public IActionResult Index()
         {
-            ViewBag.v1 = "Yetenek Listesi";
-            ViewBag.v2 = "Yetenekler";
-            ViewBag.v3 = "Yetenek Listesi";
+          
             var values = skillManager.TGetList();
             return View(values);
         }
         [HttpGet]
         public IActionResult AddSkill() {
 
-            ViewBag.v1 = "Yetenek Ekleme";
-            ViewBag.v2 = "Yetenekler";
-            ViewBag.v3 = "Yetenek Ekleme";
+           
             return View();
         
         }
@@ -42,9 +38,7 @@ namespace CvWebSite.Controllers
         [HttpGet]
         public IActionResult EditSkill(int id)
         {
-            ViewBag.v1 = "Yetenek Düzenleme";
-            ViewBag.v2 = "Yetenekler";
-            ViewBag.v3 = "Yetenek Düzenleme";
+           
             var values = skillManager.TGetById(id);
 
             return View(values);
@@ -53,12 +47,9 @@ namespace CvWebSite.Controllers
         [HttpPost]
         public IActionResult EditSkill(Skill skill)
         {
-            ViewBag.v1 = "Yetenek Düzenleme";
-            ViewBag.v2 = "Yetenekler";
-            ViewBag.v3 = "Yetenek Düzenleme";
+           
            skillManager.TUpdate(skill);
-
-            return RedirectToAction("Index");
+           return RedirectToAction("Index");
 
         }
     }
