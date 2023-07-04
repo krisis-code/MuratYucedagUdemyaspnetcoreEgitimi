@@ -1,7 +1,7 @@
 ﻿@model EntityLayer.Concrete.About
 @{
     ViewData["Title"] = "Index";
-    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    Layout = "~/Views/Shared/_NewAdminLayout.cshtml";
 }
 <div class="card-header border-0">
     <h3 class="mb-0">Hakkında Düzenleme</h3>
@@ -10,7 +10,7 @@
 {
     @Html.HiddenFor(x => x.AboutId)
     <br />
-    <label>GİRİŞ VE AD SOYAD</label>
+    <label> AD SOYAD</label>
     <br />
     @Html.TextBoxFor(x=> x.Title, new {@class="form-control"})
     <br />
