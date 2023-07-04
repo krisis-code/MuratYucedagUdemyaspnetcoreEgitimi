@@ -10,19 +10,13 @@ namespace CvWebSite.Controllers
         ExperinceManager experinceManager = new ExperinceManager(new EfExperinceDal());
         public IActionResult Index()
         {
-            ViewBag.v1 = "Deneyim Listesi";
-            ViewBag.v2 = "Deneyimler";
-            ViewBag.v3 = "Deneyim  Listesi";
+           
             var values = experinceManager.TGetList();
             return View(values);
         }
         [HttpGet]
         public IActionResult AddExperience() {
-            ViewBag.v1 = "Deneyim Düzenle";
-            ViewBag.v2 = "Deneyimler";
-            ViewBag.v3 = "Deneyim  Düzenle";
-
-
+      
             return View();
 
         }
@@ -44,9 +38,7 @@ namespace CvWebSite.Controllers
         [HttpGet]
         public IActionResult EditExperience(int id)
         {
-            ViewBag.v1 = "Deneyim Düzenleme";
-            ViewBag.v2 = "Deneyimler";
-            ViewBag.v3 = "Deneyim  Düzenleme";
+    
             var values = experinceManager.TGetById(id);
             return View(values);
         }
