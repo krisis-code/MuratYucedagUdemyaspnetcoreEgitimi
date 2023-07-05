@@ -13,10 +13,7 @@ namespace CvWebSite.Controllers
         [HttpGet]
         public IActionResult Index()
         {
-            ViewBag.v1 = "Düzenleme";
-            ViewBag.v2 = "Öne Çıkanlar";
-            ViewBag.v3 = " Düzenleme";
-         
+          
             
             var values = featureManager.TGetById(1);
 
@@ -26,9 +23,7 @@ namespace CvWebSite.Controllers
         [HttpPost]
         public IActionResult Index(Feature feature)
         {
-            ViewBag.v1 = "Düzenleme";
-            ViewBag.v2 = "Öne Çıkanlar";
-            ViewBag.v3 = " Düzenleme";
+            
 
             featureManager.TUpdate(feature);
 

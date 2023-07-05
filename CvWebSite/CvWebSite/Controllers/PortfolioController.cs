@@ -16,19 +16,12 @@ public class PortfolioController : Controller
 
     public IActionResult Index()
     {
-        ViewBag.v1 = "Proje Listeleme";
-        ViewBag.v2 = "Projeler";
-        ViewBag.v3 = "Proje Listeleme";
-
         var values= portfolioManager.TGetList();
         return View(values);
     }
     [HttpGet]
     public IActionResult AddPortfolio()
     {
-        ViewBag.v1 = "Proje Listesi";
-        ViewBag.v2 = "Projelerim";
-        ViewBag.v3 = "Proje  Listesi";
         return View();
     }
 
@@ -64,11 +57,7 @@ public class PortfolioController : Controller
     [HttpGet]
     public IActionResult EditPortfolio(int id)
     {
-        ViewBag.v1 = "Proje Düzenleme";
-        ViewBag.v2 = "Projeler";
-        ViewBag.v3 = "Proje Düzenleme";
         var values = portfolioManager.TGetById(id);
-
         return View(values);
 
     }
@@ -78,10 +67,7 @@ public class PortfolioController : Controller
         PortfolioValidator validator = new PortfolioValidator();
         ValidationResult result = validator.Validate(portfolio);
         if (result.IsValid)
-        {
-            ViewBag.v1 = "Proje Düzenleme";
-            ViewBag.v2 = "Projeler";
-            ViewBag.v3 = "Proje Düzenleme";
+        { 
             portfolioManager.TUpdate(portfolio);
             return RedirectToAction("Index");
 
