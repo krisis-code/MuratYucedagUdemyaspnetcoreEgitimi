@@ -4,7 +4,49 @@
     ViewData["Title"] = "Index";
     Layout = "~/Views/Shared/_NewAdminLayout.cshtml";
 }
-<div class="card-header border-0">
+
+<div class="col-lg-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Hizmetler</h4>
+
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>Başlık</th>
+                            <th>Görsel</th>
+                            <th>Sil</th>
+                            <th>Güncelle</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@item.ServiceId</td>
+                                <td>@item.Title</td>
+                                <td>@item.ImageUrl</td>
+                           
+                                <td><a href=" /Service/DeleteService/@item.ServiceId" class="btn btn-outline-danger">Sil</a></td>
+                                <td><a href=" /Service/EditService/@item.ServiceId" class="btn btn-outline-success">Güncelle</a></td>
+
+                            </tr>
+                        }
+
+
+                    </tbody>
+                </table>
+                <a href="/Service/AddService/" class="btn btn-outline-info">Yeni ekle</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+@*<div class="card-header border-0">
     <h3 class="mb-0">Deneyim Listesi Tablosu</h3>
 </div>
 
@@ -47,5 +89,6 @@
         </tbody>
     </table>
     <br />
-    <a href="/Service/AddService/" class="btn btn-primary">Yeni Deneyim EKle</a>
+    <a href="/Service/AddService/" class="btn btn-primary">Yeni Hizmet EKle</a>
 </div>
+*@

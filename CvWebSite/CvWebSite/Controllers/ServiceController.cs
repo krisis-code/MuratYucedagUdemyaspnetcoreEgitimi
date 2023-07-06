@@ -12,22 +12,14 @@ namespace CvWebSite.Controllers
        
         public IActionResult Index()
         {
-            ViewBag.v1 = "Servis Listesi";
-            ViewBag.v2 = "Servis";
-            ViewBag.v3 = "Servis Listesi";
-           var values = serviceManager.TGetList();
+            var values = serviceManager.TGetList();
 
             return View(values);
         }
         [HttpGet]
         public IActionResult AddService()
         {
-
-            ViewBag.v1 = "Servis Ekleme";
-            ViewBag.v2 = "Servis";
-            ViewBag.v3 = "Servis Ekleme";
             return View();
-
         }
         [HttpPost]
         public IActionResult AddService(Service service)
@@ -46,9 +38,7 @@ namespace CvWebSite.Controllers
         [HttpGet]
         public IActionResult EditService(int id)
         {
-            ViewBag.v1 = "Yetenek Düzenleme";
-            ViewBag.v2 = "Yetenekler";
-            ViewBag.v3 = "Yetenek Düzenleme";
+           
             var values = serviceManager.TGetById(id);
 
             return View(values);
@@ -57,9 +47,7 @@ namespace CvWebSite.Controllers
         [HttpPost]
         public IActionResult EditService(Service service)
         {
-            ViewBag.v1 = "Yetenek Düzenleme";
-            ViewBag.v2 = "Yetenekler";
-            ViewBag.v3 = "Yetenek Düzenleme";
+           
             serviceManager.TUpdate(service);
 
             return RedirectToAction("Index");
