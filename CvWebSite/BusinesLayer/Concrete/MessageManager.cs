@@ -30,7 +30,7 @@ namespace BusinesLayer.Concrete
 
         public List<Message> TGetList()
         {
-            throw new NotImplementedException();
+          return _messageDal.GetList();
         }
 
         public List<Message> TGetListByFilter(string p)
