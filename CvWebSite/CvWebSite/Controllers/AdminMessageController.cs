@@ -19,5 +19,15 @@ namespace CvWebSite.Controllers
             var values = writermessageManager.GetListReceiverMessage(p);
             return View(values);
         }
+        public IActionResult AdminMessageDetails(int id)
+        {
+            var values = writermessageManager.TGetById(id);
+            return View(values);
+        }
+        public IActionResult ContactDetails(int id)
+        {
+            var values = writermessageManager.TGetById(id);
+            return View(values);
+        }
     }
 }
