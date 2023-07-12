@@ -1,12 +1,23 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using BusinesLayer.Concrete;
+using DataAccessLayer.EntityFramework;
+using Microsoft.AspNetCore.Mvc;
 
 namespace CvWebSite.Controllers
 {
     public class AdminMessageController : Controller
     {
-        public IActionResult Index()
+        WriterMessageManager writermessageManager = new WriterMessageManager(new EfWriterMessageDal());
+        public IActionResult ReceiverMessageList()
         {
-            return View();
+            string p = "admin@gmail.com";
+            var values = writermessageManager.GetListReceiverMessage(p);
+            return View(values);
+        }
+        public IActionResult SenderMessageList()
+        {
+            string p = "admin@gmail.com";
+            var values = writermessageManager.GetListReceiverMessage(p);
+            return View(values);
         }
     }
 }

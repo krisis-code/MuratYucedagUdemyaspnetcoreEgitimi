@@ -96,6 +96,22 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Kris/Desktop/MuratYucedagUdemyaspnetcoreEgitimi/CvWebSite/CvWebSite/Views/AdminMessage/AdminMessageDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5NZXNzYWdlXEFkbWluTWVzc2FnZURldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kris/Desktop/MuratYucedagUdemyaspnetcoreEgitimi/CvWebSite/CvWebSite/Views/AdminMessage/AdminMessageSend.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5NZXNzYWdlXEFkbWluTWVzc2FnZVNlbmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kris/Desktop/MuratYucedagUdemyaspnetcoreEgitimi/CvWebSite/CvWebSite/Views/AdminMessage/ReceiverMessageList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5NZXNzYWdlXFJlY2VpdmVyTWVzc2FnZUxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kris/Desktop/MuratYucedagUdemyaspnetcoreEgitimi/CvWebSite/CvWebSite/Views/AdminMessage/SenderMessageList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5NZXNzYWdlXFNlbmRlck1lc3NhZ2VMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Kris/Desktop/MuratYucedagUdemyaspnetcoreEgitimi/CvWebSite/CvWebSite/Views/Admin/NavigationPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTmF2aWdhdGlvblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
