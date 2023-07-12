@@ -16,7 +16,7 @@ namespace CvWebSite.Controllers
         public IActionResult SenderMessageList()
         {
             string p = "admin@gmail.com";
-            var values = writermessageManager.GetListReceiverMessage(p);
+            var values = writermessageManager.GetListSenderMessage(p);
             return View(values);
         }
         public IActionResult AdminMessageDetails(int id)
@@ -24,10 +24,17 @@ namespace CvWebSite.Controllers
             var values = writermessageManager.TGetById(id);
             return View(values);
         }
-        public IActionResult ContactDetails(int id)
+        public IActionResult AdminMessageDelete(int id)
         {
             var values = writermessageManager.TGetById(id);
-            return View(values);
+            writermessageManager.TDelete(values);
+            if (values.SenderName != null)
+            {
+                return RedirectToAction("SenderMessageList");
+            }
+            return RedirectToAction("ReceiverMessageList");
+
         }
+
     }
 }

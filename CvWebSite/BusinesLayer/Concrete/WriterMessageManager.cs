@@ -34,7 +34,7 @@ namespace BusinesLayer.Concrete
 
         public void TDelete(WriterMessage t)
         {
-            throw new NotImplementedException();
+            _WriterMessageDal.Delete(t);
         }
 
         public WriterMessage TGetById(int id)
