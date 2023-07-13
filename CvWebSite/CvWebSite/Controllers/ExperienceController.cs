@@ -1,12 +1,16 @@
 ﻿using BusinesLayer.Concrete;
 using DataAccessLayer.EntityFramework;
 using EntityLayer.Concrete;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CvWebSite.Controllers
 {
+    [Authorize(Roles = "Admin")]
     public class ExperienceController : Controller
     {
+     
+
         ExperinceManager experinceManager = new ExperinceManager(new EfExperinceDal());
         public IActionResult Index()
         {
