@@ -1,7 +1,5 @@
 ﻿@using EntityLayer.Concrete
 @model List<Portfolio>
-
-
 <div class="section px-2 px-lg-4 pt-5" id="portfolio">
     <div class="container">
         <div class="text-center mb-5">
@@ -12,7 +10,7 @@
             @foreach (var item in Model)
             {
                 <div class="grid-item">
-                 
+                    <a href="https://dribbble.com">
                         <figure class="portfolio-item">
                             <img src="@item.ImageUrl" data-bp="@item.ImageUrl2" />
                             <figcaption>
@@ -20,7 +18,7 @@
                                 <div>@item.ProjectUrl</div>
                             </figcaption>
                         </figure>
-
+                    </a>
                 </div>
             }
         </div>
