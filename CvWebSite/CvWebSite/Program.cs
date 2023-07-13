@@ -20,14 +20,19 @@ builder.Services.AddMvc(config => {
     config.Filters.Add(new AuthorizeFilter(policy));
 });
 
-builder.Services.AddAuthentication(
-    CookieAuthenticationDefaults.AuthenticationScheme)
-    .AddCookie(x =>
-    {
-        x.LoginPath = "/AdminLoginController/Index";
-    });
+//builder.Services.AddAuthentication(
+//    CookieAuthenticationDefaults.AuthenticationScheme)
+//    .AddCookie(x =>
+//    {
+//        x.LoginPath = "/AdminLogin/Index";
+//    });
 
-
+builder.Services.ConfigureApplicationCookie(options =>
+{
+    options.Cookie.HttpOnly = true;
+    options.ExpireTimeSpan = TimeSpan.FromMinutes(10);
+    options.LoginPath = "/Writer/Login/Index";
+});
 
 var app = builder.Build();
 
