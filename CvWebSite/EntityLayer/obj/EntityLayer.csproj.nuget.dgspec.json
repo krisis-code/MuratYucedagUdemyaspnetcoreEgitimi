@@ -1,25 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\EntityLayer\\EntityLayer.csproj": {}
+    "C:\\Users\\IPFS\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\EntityLayer\\EntityLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\EntityLayer\\EntityLayer.csproj": {
+    "C:\\Users\\IPFS\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\EntityLayer\\EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\EntityLayer\\EntityLayer.csproj",
+        "projectUniqueName": "C:\\Users\\IPFS\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\EntityLayer\\EntityLayer.csproj",
         "projectName": "EntityLayer",
-        "projectPath": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\EntityLayer\\EntityLayer.csproj",
-        "packagesPath": "C:\\Users\\Kris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kris\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\EntityLayer\\obj\\",
+        "projectPath": "C:\\Users\\IPFS\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\EntityLayer\\EntityLayer.csproj",
+        "packagesPath": "C:\\Users\\IPFS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IPFS\\Desktop\\MuratYucedagUdemyaspnetcoreEgitimi\\CvWebSite\\EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Kris\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\IPFS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -90,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
