@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Cv_Website_Api.props" />
+</Project>
