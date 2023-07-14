@@ -4,6 +4,7 @@
     ViewData["Title"] = "Index";
     Layout = "~/Views/Shared/_NewAdminLayout.cshtml";
 }
+
 <div class="row">
     <div class="col">
         <div class="card bg-default shadow">
@@ -44,7 +45,18 @@
                                 <td>
                                     <span class="badge badge-dot mr-4">
                                         <i class="bg-success"></i>
-                                        <span class="status">Tamamlandı</span>
+                                        @if (item.Value == "100")
+                                            {
+                                            <span class="status">Tamamlandı</span>
+                                            }
+
+                                            @if (item.Value != "100")
+                                            {
+                                            <span class="status">Devam ediyor</span>
+                                            }
+                                        
+                                        
+                                        
                                     </span>
                                 </td>
                             <td>
