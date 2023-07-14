@@ -5,9 +5,13 @@ using EntityLayer.Concrete;
 using Microsoft.AspNetCore.Mvc;
 using FluentValidation.Results;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
+using Microsoft.AspNetCore.Authorization;
+using System.Data;
 
 namespace CvWebSite.Controllers;
 
+
+[Authorize(Roles = "Admin")]
 public class PortfolioController : Controller
 {
     PortfolioManager portfolioManager = new PortfolioManager(new EfPortfolioDal());

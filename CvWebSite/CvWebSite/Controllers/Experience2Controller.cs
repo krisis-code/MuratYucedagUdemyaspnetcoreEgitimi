@@ -1,12 +1,15 @@
 ﻿using BusinesLayer.Concrete;
 using DataAccessLayer.EntityFramework;
 using EntityLayer.Concrete;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
+using System.Data;
 
 namespace CvWebSite.Controllers
 {
+    [Authorize(Roles = "Admin")]
     public class Experience2Controller : Controller
     {
         ExperinceManager experinceManager = new ExperinceManager(new EfExperinceDal());

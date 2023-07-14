@@ -1,7 +1,10 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
+using System.Data;
 
 namespace CvWebSite.Controllers
 {
+    
     public class ErrorPageController : Controller
     {
         public IActionResult Index()

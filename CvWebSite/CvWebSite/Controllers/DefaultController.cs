@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace CvWebSite.Controllers
 {
-    [AllowAnonymous]
+   
     public class DefaultController : Controller
     {
         public IActionResult Index()
