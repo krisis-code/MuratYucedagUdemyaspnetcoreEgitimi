@@ -55,5 +55,23 @@ namespace Cv_Website_Api.Controllers
                 return NoContent();
             }
         }
+        [HttpPut]
+        public IActionResult CategoryUpdate(Category p)
+        {
+            using var c = new Context();
+            var values = c.Find<Category>(p.CategoryId);
+            if (values == null)
+            {
+                return NotFound();
+            }
+            else
+            {
+                values.CategoryName = p.CategoryName;
+                c.Update(values);
+                c.SaveChanges();
+                return NoContent();
+            }
+
+        }
     }
 }
